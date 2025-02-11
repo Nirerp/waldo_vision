@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>waldo1.jpeg</filename>
+	<path>/home/nir/nir_projects/waldo_project/data/images/waldo1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3540</width>
+		<height>2254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>834</xmin>
+			<ymin>1522</ymin>
+			<xmax>892</xmax>
+			<ymax>1620</ymax>
+		</bndbox>
+	</object>
+</annotation>
